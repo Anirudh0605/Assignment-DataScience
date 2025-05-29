@@ -1,3 +1,3 @@
 # Assignment-DataScience
 
-Thsi is the assignment of Data Science course
+Thsi is the assignment problems of Data Science course
